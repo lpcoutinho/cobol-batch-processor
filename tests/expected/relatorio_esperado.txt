@@ -1,9 +1,9 @@
-ID: 00001 | VALOR: R$      150,00
-ID: 00002 | VALOR: R$       50,50
-ID: 00003 | VALOR: R$    1.200,00
-ID: 00004 | VALOR: R$       25,00
-ID: 00005 | VALOR: R$      850,00
+ID: 00001 | VALOR: R$     150,00
+ID: 00002 | VALOR: R$      50,50
+ID: 00003 | VALOR: R$   1.200,00
+ID: 00004 | VALOR: R$      25,00
+ID: 00005 | VALOR: R$     850,00
 -----------------------------------
-TOTAL CREDITOS : R$    2.200,00
-TOTAL DEBITOS  : R$       75,50
+TOTAL CREDITOS : R$   2.200,00
+TOTAL DEBITOS  : R$      75,50
 -----------------------------------
